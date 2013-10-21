@@ -4,7 +4,7 @@
 #include "tsp_algorithms.h"
 
 
-int const numberOfCities = 2000;
+int const numberOfCities = 100;
 int const minWeight = 1;
 int const maxWeight = 5;
 int const numberOfTests = 5;
